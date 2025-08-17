@@ -79,4 +79,4 @@ Use the included `presentation-2025-08-17-4.json` file to test the "Load Present
 
 ## 📝 License
 
-This project is created for the MetaUpSpace Full Stack Developer hiring task. For questions, contact hr@metaupspace.com.
+This project is created for the MetaUpSpace Full Stack Developer hiring task.
