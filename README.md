@@ -4,7 +4,7 @@ A modern, web-based presentation editor built with Next.js 15, TypeScript, and H
 
 ## 🚀 Live Hosted Link
 
-**Live Application**: [Your Vercel/Netlify URL will go here]
+**Live Application**: https://meta-present.vercel.app
 
 
 ## 📦 Setup & Installation Instructions
@@ -67,11 +67,10 @@ src/
 
 ## 🎯 Features
 
-- **Slide Management**: Add, delete, and reorder slides
+- **Slide Management**: Add and delete the slides
 - **Drawing Tools**: Rectangle, circle, triangle, star, line, and text elements
 - **Image Support**: Upload and place images on slides
 - **Save/Load**: Export presentations as JSON and import existing ones
-- **Responsive Design**: Works on desktop and mobile devices
 
 ## 🧪 Testing the Load Feature
 
